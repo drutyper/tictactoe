@@ -1,5 +1,6 @@
 require 'pry'
 require "./player"
+
 class Game
   attr_accessor :board, :taken_moves
 
